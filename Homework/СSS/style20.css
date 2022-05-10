@@ -1,0 +1,45 @@
+
+body { 
+     background-color: bisque;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+	
+	color: rgb(24, 24, 211);
+    
+   }
+
+ pre {background-color: bisque;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+	
+	color: rgb(24, 24, 211);}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #93de21;
+  
+}
+.floatLeft { 
+    display:flex;
+}
+
+li a {
+    display: block;
+       text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+a:hover {
+    background-color: #dfd325;
+}
+
+hr { 
+
+    border: 0;
+    background-color: black;
+    height: 3px;
+    
+    }
