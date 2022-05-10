@@ -1,0 +1,25 @@
+body { margin: 3%; margin-top: auto;}
+
+table { text-align: center; 
+    border: 1px solid rgb(0, 0, 0); margin: auto; 
+ }
+ /* границы ячеек первого ряда таблицы */
+ th {
+    border: 1px solid rgb(0, 0, 0); margin: 2px; background-color: aqua; padding: 10px;
+ }
+ /* границы ячеек тела таблицы */
+ td {
+    border: 1px solid rgb(0, 0, 0); margin: 2px; background-color: khaki; padding: 5px;
+ }
+ table {border-collapse: collapse;}
+ caption {
+    font-family: annabelle, cursive;
+    font-weight: bold;
+    font-size: 2em;
+    padding: 10px; 
+    color: #2656f3;
+    text-shadow: 1px 1px 0 rgba(0,0,0,.3);}
+
+    h1 { text-align: center; font-family: annabelle, cursive;font-weight: bold; font-size: 3em; padding-left: 10px;}
+
+    span { font-size: 1.2em; color: black; font-style: oblique; font-weight: bold;}
